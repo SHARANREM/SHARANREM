@@ -92,8 +92,8 @@ Plugin-based command launcher inspired by game cheat consoles.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHARANREM&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARANREM&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharanrem&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanrem&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -110,9 +110,9 @@ Plugin-based command launcher inspired by game cheat consoles.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
+- GitHub: https://github.com/SHARANREM
+- LinkedIn: www.linkedin.com/in/sharan-rem
+- Portfolio: https://digital-portfolios-olive.vercel.app
 
 ---
 

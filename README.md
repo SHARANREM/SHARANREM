@@ -45,8 +45,6 @@ Plugin-based command launcher inspired by game cheat consoles.
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -86,16 +84,6 @@ Plugin-based command launcher inspired by game cheat consoles.
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharanrem&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanrem&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Goals
